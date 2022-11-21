@@ -259,3 +259,6 @@ and paste it in views/layouts/boilerplate
 (106) touch .gitignore ( github .gitignore node)
 (107) git init
 (107) git remote -v
+(108) git add .
+(109) git commit -m "first commit"
+(110) git push heroku master
