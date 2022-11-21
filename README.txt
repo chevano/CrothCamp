@@ -261,4 +261,6 @@ and paste it in views/layouts/boilerplate
 (107) git remote -v
 (108) git add .
 (109) git commit -m "first commit"
-(110) git push heroku master
+(110) git push heroku main || (git push heroku master)
+(111) In package.json under scripts type
+"start": "node app.js"
