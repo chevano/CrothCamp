@@ -264,3 +264,4 @@ and paste it in views/layouts/boilerplate
 (110) git push heroku main || (git push heroku master)
 (111) In package.json under scripts type
 "start": "node app.js"
+(112) heroku restart
